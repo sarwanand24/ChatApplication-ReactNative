@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1089055813965",
+    "firebase_url": "https://internship-project24-default-rtdb.firebaseio.com",
+    "project_id": "internship-project24",
+    "storage_bucket": "internship-project24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089055813965:android:b8b25c77fc14c3796a0704",
+        "android_client_info": {
+          "package_name": "com.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHVkKcXh7qn-b6ZJzZEvw8U1KDI9vgu78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
